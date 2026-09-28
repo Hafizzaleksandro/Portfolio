@@ -323,7 +323,7 @@ export default class Application
             step++
             this.title.position = Math.round(this.title.absolutePosition % this.title.width)
 
-            document.title = `Ahmad ${'_'.repeat(step % 10)}🚗${'_'.repeat(10 - (step % 10))}`
+            document.title = `Hafiz ${'_'.repeat(step % 10)}🚗${'_'.repeat(10 - (step % 10))}`
         }, this.title.frequency)
     }
 

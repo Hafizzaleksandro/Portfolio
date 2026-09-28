@@ -1,13 +1,13 @@
-# 🚗 Interactive 3D Portfolio
+# 🚗 Hafiz — Interactive 3D Portfolio
 
-An immersive, isometric 3D web portfolio built using **Three.js** and **JavaScript**. Drive a mini car around an interactive world to discover my projects, skills, background, hobbies, and social profiles!
+An immersive, isometric 3D portfolio being customized for **Hafiz**, an **IT and Software Developer** focused on ERP, production systems, inventory, IoT, API integration, infrastructure, and web applications. Drive a mini car around the interactive world to discover projects, skills, background, and contact information.
 
 ---
 
 ## ✨ Key Features
 
-* 📊 **Upright 3D Billboards:** High-resolution standing displays showcasing my roles (*BS Computer Science*, *Creative Web Developer*, *AI Automation Engineer*, *Freelancer*) and project highlights.
-* 🇵🇰 **National Identity:** Features a custom 3D **Pakistani Flag** model proudly representing my country and roots.
+* 📊 **Upright 3D Billboards:** High-resolution standing displays for professional experience and project highlights.
+* 🗺️ **Personal Portfolio World:** The existing 3D environment is being adapted to present Hafiz's work and experience while preserving its driving experience.
 * 🗿 **Hobbies & Interests Statues:** Scattered 3D statues and models representing my personal passions and creative hobbies outside of coding.
 * 🎮 **Interactive Play Area:** A dedicated fun playground zone with physics-enabled objects to drive around, crash into, and explore.
 * 🌐 **Social Media Hub:** Drive up to 3D social media statues—pressing **`ENTER`** inside designated floor zones seamlessly opens external social links (GitHub, LinkedIn, Portfolio links, etc.) in a new tab.
@@ -83,12 +83,12 @@ The optimized static build files will be generated in the `dist/` or `build/` fo
 
 ## 📝 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See `license.md` for the original copyright notice and license terms.
 
 ---
 
 <div align="center">
 
-Crafted with ❤️ by **Muhammad Ahmad Shafique**
+Customized as a personal portfolio for **Hafiz**
 
 </div>
